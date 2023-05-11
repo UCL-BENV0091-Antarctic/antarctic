@@ -1,6 +1,8 @@
 # arctic
 BENV0091 Group Project: Predicting Arctic Sea Ice with Supervised Learning
 
+Media: on [UCL Energy Institute's post](https://www.ucl.ac.uk/bartlett/energy/news/2021/feb/students-publish-their-innovative-data-science-and-machine-learning-energy-system)
+
 Visualisation: [Shiny App](https://grouporangearcticiceextent.shinyapps.io/shiny/?_ga=2.114418575.940438834.1607903962-2063170584.1607903962)
 
 Report in PDF: https://realgjl.com/report/ucl/arctic_sea_ice.pdf
